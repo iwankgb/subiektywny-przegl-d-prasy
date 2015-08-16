@@ -31,3 +31,28 @@ items:
         source:
             url: http://highscalability.com/
             name: High Scalability Blog
+    - 
+        title: AWS Lambda obsługująca zapytania użytkowników
+        description: Analityka w czasie rzeczywistym za pomocą mocy obliczeniowej na żądanie.
+        link: http://blogs.aws.amazon.com/bigdata/post/Tx3KH6BEUL2SGVA/Building-Scalable-and-Responsive-Big-Data-Interfaces-with-AWS-Lambda
+        source:
+            url: http://highscalability.com/
+            name: High Scalability Blog
+    - 
+        title: Garbage collection w google'owym V8
+        description: Bardzo dobre do przeglądarki; nie wiem tylko co chłopaki od Node'a na to - tam raczej ciężko liczyć na idle time...
+        link: http://v8project.blogspot.com/2015/08/getting-garbage-collection-for-free.html
+        source:
+            url: http://highscalability.com/
+            name: High Scalability Blog
+    - 
+        title: VACUUM (automatyczny) w Postgresie
+        description: Podobny problem zaobserwowaliśmy w AWS Redshift, prawda Tomaszu? Jako, że Redshift jest Postgresem, to problemy mogą być powiązane...
+        link: https://www.joyent.com/blog/manta-postmortem-7-27-2015
+        source:
+            url: http://highscalability.com/
+            name: High Scalability Blog
+    - 
+        title: Wujek Robert o moczeniu
+        description: Nie o moczeniu się w nocy, ale o tym jak nie nadużywać mock obiektów w swoich testach, o tym że warto pisać swoje mocki samemu zamiast używać kolejnego narzędzia.
+        link: http://blog.8thlight.com/uncle-bob/2014/05/10/WhenToMock.html
