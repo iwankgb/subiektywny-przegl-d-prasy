@@ -1,0 +1,12 @@
+title: Subiektywny przegląd prasy
+link: http://critical.today
+description: Dla kolegów z zespołu (i nie tylko) udostępniam zbiór co ciekawszych zawodowych tematów znalezionych w necie 
+language: pl
+items:
+    - 
+        title: Oszczędzanie pamięci przez używanie generatorów 
+        description:  Evert Pot na temat wyników SQLi i generatorów. Temat do wykorzystania w cronach/workerach i innych długo działających procesach?
+        link: http://evertpot.com/switching-to-generators/
+        source: 
+            url: http://evertpot.com/
+            name: Evert Pot's blog
