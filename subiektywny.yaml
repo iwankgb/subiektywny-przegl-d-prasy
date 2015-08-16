@@ -10,3 +10,24 @@ items:
         source: 
             url: http://evertpot.com/
             name: Evert Pot's blog
+    - 
+        title: Magento i MySQL Query Cache
+        description: Czasem nawet query cache w MySQLu może się przydać - Magento ma pasującą do niego charakterystykę obciążenia bazy
+        link: https://www.percona.com/blog/2015/08/07/mysql-query-cache-worst-enemy-best-friend/
+        source:
+            url: https://www.percona.com/blog/
+            name: Percona MySQL Performance Blog
+    - 
+        title: Jak rozsądnie modularyzować aplikacje?
+        description: Odpowiedzi na to pytanie udzielono już w latach siedemdziesiątych.
+        link: https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf
+        source: 
+            url: https://www.cs.umd.edu/
+            name: Department of Computer Science, University of Maryland
+    - 
+        title: Pomysł Google na sieci w serwerowniach
+        description: Całkowita przepustowość internetu to jakieś 200TB na sekundę. Google twierdzi, że w swoich serwerowniach osiąga 1PB (a chiałoby 5PB)
+        link: http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html
+        source:
+            url: http://highscalability.com/
+            name: High Scalability Blog
