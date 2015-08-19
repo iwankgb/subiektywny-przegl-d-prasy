@@ -56,3 +56,11 @@ items:
         title: Wujek Robert o moczeniu
         description: Nie o moczeniu się w nocy, ale o tym jak nie nadużywać mock obiektów w swoich testach, o tym że warto pisać swoje mocki samemu zamiast używać kolejnego narzędzia.
         link: http://blog.8thlight.com/uncle-bob/2014/05/10/WhenToMock.html
+    - 
+        title: Falsehoods programmers believe about time
+        description: Obsługa czasu to jedno z bardziej podchwytliwych zadań z jakimi spotykamy się codziennie. Pierwsza porcja błędów które często popełniamy
+        link: http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
+    - 
+        title: More falsehoods programmers believe about time; “wisdom of the crowd” edition
+        description: Błędów przy obsłudze dat ciąg dalszy
+        link: http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
