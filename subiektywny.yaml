@@ -56,3 +56,79 @@ items:
         title: Wujek Robert o moczeniu
         description: Nie o moczeniu się w nocy, ale o tym jak nie nadużywać mock obiektów w swoich testach, o tym że warto pisać swoje mocki samemu zamiast używać kolejnego narzędzia.
         link: http://blog.8thlight.com/uncle-bob/2014/05/10/WhenToMock.html
+    - 
+        title: Apache Spark na AWS
+        description: Bardzo mięsny opis uruchamiania Sparkowego klastra zamiast AWS EMR. Duuuuużo konkretów.
+        link: http://tech.grammarly.com/blog/posts/Petabyte-Scale-Text-Processing-with-Spark.html
+        source:
+            url: http://highscalability.com/
+            name: High Scalability Blog
+    - 
+        title: Sharding lvl hard, czyli MySQL w Pinterest
+        description: Jak trzy i pół roku temu zmigrowano na infrastrukturę, która być może zostanie już na wieki.
+        link: https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet
+    - 
+        title: Action-Domain-Responder na całkiem ładnym przykładzie
+        description: Paul M. Jones rozszerzając inny post na temat refaktoryzacji pokazuje jak dzielić odpowiedzialności zgodnie z ADR.
+        link: http://paul-m-jones.com/archives/6172
+        source:
+            name: Paul M. Jones
+            url: http://paul-m-jones.com/feed
+    - 
+        title: Skrajnie ostrożne PHP
+        description: Ocramius o Skrajnie ostrożne PHP (czyli dlaczego tablica asocjacyjne ssie... i chuj)
+        link: https://ocramius.github.io/extremely-defensive-php/#/
+    - 
+        title: ADRowe serce frameworka Radar
+        description: A może by tak... DDD? Następny projekt robię na Radarze
+        link: https://github.com/radarphp/Radar.Adr
+    - 
+        title: Wielowątkowa replikacja w MySQL 5.6 i 5.7
+        description: Percona recenzuje wydajność jednoczesnego replikowania wielu baz na 5.6 i formułuje oczekiwania wobec 5.7
+        link: https://www.percona.com/blog/2015/08/19/how-much-could-you-benefit-from-mysql-5-6-parallel-replication/
+        source:
+            name: MySQL Performance Blog
+            url: http://www.mysqlperformanceblog.com/feed/
+    - 
+        title: Podobno nawet z Laravelem da się żyć
+        link: https://ashajjar85.wordpress.com/2015/08/16/mocking-objects-for-unit-testing-in-php-using-go-aop/
+        description: Jak robiąc rzeczy dość straszne mockować w Laravelu... Czyli uruchamiaj swoje mocki razem z całą aplikacją.
+    - 
+        title: Go 1.5
+        description: Wraz z nowym garbage collectorem.
+        link: https://golang.org/doc/go1.5
+        source:
+            url: http://blog.golang.org/feed.atom
+            name: The Go Programming Language Blog
+    - 
+        title: HHVM 3.9.0
+        description: Jeszcze ciepły!
+        link: https://github.com/facebook/hhvm/tree/HHVM-3.9.0
+    - 
+        title: Optymalizacja nginx
+        description: Milion żądań na jednej instancji c3.8xlarge (60GB, 32 rdzenie). Co trzeba zrobić, żeby to osiągnąć?
+        link: http://datacratic.com/site/blog/1m-qps-nginx-and-ubuntu-1204-ec2
+        source:
+            name: AWS User Group Poland
+            url: https://www.facebook.com/awsugpl
+    - 
+        title: pthreads i PHP7
+        description: Krakjoe tłumaczy dlaczego mój pthreadsowy projekt nie chciał działać ;)
+        link: http://blog.krakjoe.ninja/2015/08/a-letter-from-future.html
+        source:
+            name: Musings, ninja ones
+            url: http://blog.krakjoe.ninja/
+    - 
+        title: Sharding w Pinterest
+        description: Jak Pinterest poszardował MySQLa i dlaczego są z tym szczęśliwi
+        link: https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet/
+        source:
+            name: High Scalability Blog
+            url: http://highscalability.com/
+    - 
+        title: Redis na sterydach
+        description: Wczesna beta bazy kompatybilnej z Redisem i wzbogaconej o ACID oraz procedury składowane.
+        link: http://serenitydb.org/index.html
+        source:
+            name: High Scalability Blog
+            url: http://highscalability.com/
