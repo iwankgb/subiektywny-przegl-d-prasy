@@ -132,3 +132,179 @@ items:
         source:
             name: High Scalability Blog
             url: http://highscalability.com/
+    - 
+        title: AWS API Gateway ze wsparciem dla testów jednostkowych
+        description: AWS ułatwia tworzenie klientów API na etapie, na którym API nie jest gotowe.
+        link: https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-mock-integration.html
+    - 
+        title: Krótka składnia dla closures
+        description: E_TILDED_ARROW, czyli nowy token w php
+        link: https://wiki.php.net/rfc/short_closures
+    - 
+        title: Systemy rozproszone, a teoria względności
+        description: Jak ma się CAP theorem do Einsteina. Grubo.
+        link: http://markburgess.org/blog_cap.html
+    - 
+        title: Narzędzie do testowania API od Twittera
+        description: Obiecujący pomysł na wykrywanie regresji.
+        link: https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests
+        source:
+            name: Twitter Engineerign
+            url: https://blog.twitter.com/api/blog.rss?name=engineering
+    - 
+        title: Jak zbudować bezpieczną aplikację działającą na globalną skalę
+        description: CEO sporej firmy od mocno dynamicznych DNSów opisuje jak tworzą aplikacje (część druga)
+        link: http://highscalability.com/blog/2015/9/2/building-globally-distributed-mission-critical-applications.html
+    - 
+        title: Najprawdopodobniej najgorsza robota w IT
+        description: O tym jak autor dał się nabrać i wylądował w muzeum. Takim z 286. W XXI wieku.
+        link: https://www.snellman.net/blog/archive/2015-09-01-the-most-obsolete-infrastructure-money-could-buy/
+    - 
+        title: Tedi, to dla Ciebie!
+        description: Nadszedł dzień, w którym możesz programować na Redshifcie...
+        link: https://aws.amazon.com/about-aws/whats-new/2015/09/amazon-redshift-now-supports-scalar-user-defined-functions-in-python/
+    - 
+        title: Monitoruj swojego Varnisha z Go
+        description: Jak wyciągać dane z varnishstat na odległość
+        link: http://blog.feryn.eu/2015/09/03/running-varnishstat-remotely-using-an-api-written-in-go/
+    - 
+        title: Migracja z Pythona na Go i związane z nią korzyści
+        description: Jak wywalić 85% instancji EC2, których używasz (oraz obniżyc czas odpowiedzi i nie zwariować)
+        link: http://blog.repustate.com/migrating-entire-api-go-python/
+    - 
+        link: https://golang.org/pkg/runtime/pprof/
+        title: Profilowanie aplikacji w Go
+        description: Go zawiera pakiet runtime/pprof pozwalający profilować działanie aplikacji
+    - 
+        title: Krakjoe uczy, kiedy używać wielu wątków
+        description: Krakjoe zazwyczaj wie co mówi, gdy mówi o wielowątkowości ;)
+        link: http://blog.krakjoe.ninja/2015/09/what-polly-really-wants.html
+    - 
+        title: Systemy rozproszone i powolne odpowiedzi
+        description: Jak uchronić się przed wykorzystaniem wszystkich dostępnych wątków/procesów z powodu przeciążonej aplikacji, od której zależymy.
+        link: http://martinfowler.com/bliki/CircuitBreaker.html
+    - 
+        title: Droga SoundCloud do mikroserwisów
+        description: Zgoła niespodziewane zalety mikroserwisów z punktu widzenia zarządzania zespołem.
+        link: http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
+    -
+        title: Jak litera Ś narobiła problemów w Medium.com
+        description: To bardzo ładna historia jest. O tym jakie to urocze babole mogą znaleźć się w JSie...
+        link: https://medium.com/medium-eng/the-curious-case-of-disappearing-polish-s-fa398313d4df
+    - 
+        title: Wielotątkowość i web
+        description: Krakjoe się zirytował i nie użyjesz już pthreads tam gdzie nie wolno ;)
+        link: http://blog.krakjoe.ninja/2015/09/the-worth-of-advice.html
+    - 
+        title: MariaDB na RDS
+        description: Trwa re:Invent 2015 i AWS ogłasza wprowadzenie nowych usług. Jedną z nich jest RDS z Marią!
+        link: https://aws.amazon.com/blogs/aws/amazon-rds-update-mariadb-is-now-available/
+    - 
+        title: Elasticsearch na AWS
+        description: Poza re:Invent też dzieją się dość ciekawe rzeczy - pojawiła się między innymi usługa AWS ES
+        link: https://aws.amazon.com/elasticsearch-service/
+    - 
+        title: Nowości w AWS Container Service
+        description: Dalsza porcja mięsa z AWS re:Invent - rozwój wsparcia dla Dockera
+        link: https://aws.amazon.com/blogs/aws/ec2-container-service-update-container-registry-ecs-cli-az-aware-scheduling-and-more/
+    - 
+        title: AWS Simple Email Service może odbierać wiadomości
+        description: AWS SES wzbogacił się o możliwość odbierania wiadomości email.
+        link: https://aws.amazon.com/blogs/aws/new-receive-and-process-incoming-email-with-amazon-ses/
+    - 
+        title: Drogi zespole, oto świetlana przyszłość!
+        description: Rebase uratuje spójność naszych repozytoriów
+        link: http://akrabat.com/the-beginners-guide-to-rebasing-your-pr/
+    - 
+        title: Sebastian Bergmann o service locator
+        descrption: Zapiski autora PHPUnita po bułgarskim PHPConie
+        link: https://thephp.cc/news/2015/09/dependencies-in-disguise
+    - 
+        title: Microservices - definicja
+        description:
+        link: https://twitter.com/drsnooks/status/651373314368253952
+    - 
+        title: Jak żyć na AWS i przeżyć
+        description: Jak Netflix przetrwał awarię DynamoDB
+        link: http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
+    - 
+        title: Optymalizowałbym!
+        description: Bardzo elegancki poradnik na temat profilowania programów w Go
+        link: http://blog.signalfx.com/a-pattern-for-optimizing-go
+    - 
+        title: Facebook, bazy danych i wycieki pamięci
+        description: Jak wykorzystać wyciek pamięci do szybkiego restartowania bazy danych?
+        link: https://research.facebook.com/publications/553456231437505/fast-database-restarts-at-facebook/
+    - 
+        title: Netflixowy Asgard odchodzi do historii
+        description: Netflix przygotowuje się do upublicznienia Spinnakera - systemu do continous deployment w chmurze
+        link: http://techblog.netflix.com/2015/09/moving-from-asgard-to-spinnaker.html
+    - 
+        title: Menadżer klastów od Hashicorp
+        link: https://github.com/hashicorp/nomad
+        description: Kolejna konkurencja dla Mesosa, CoreOS, Swarma i reszty bandy. Tym razem od dość poważanej firmy.
+    - 
+        link: https://ilia.ws/files/ipc2015_nginx.pdf
+        title: Tunowanie nginxa
+        description: Ilia Alshanetsky na phpowej konferecji w Monachium doradzał jak optymalizować nginxa
+    - 
+        link: https://dev.mysql.com/doc/refman/5.7/en/create-table.html#create-table-secondary-indexes-virtual-columns
+        title: JSON w MySQLu (z indeksem!)
+        description: Zrozumienie JSONa w wersji 5.7 nieco wzrosło. Możliwe jest nawet proste indeksowanie JSONowych struktur.
+    - 
+        link: https://ilia.ws/files/phpbulgaria_business_logic_security.pdf
+        title: Ilia o bezpieczeństwie
+        description: Kolejna prezentacja z Monachijskiej konferencji - tym razem na temat bezpieczeństwa aplikacji pisanych w PHP
+    - 
+        link: http://www.darkcoding.net/software/facebooks-code-quality-problem/
+        title: Zemsta chujowego kodu
+        description: Jak kultura Facebooka odbija się na jakość fejsbukowego kodu.
+    - 
+        link: http://blog.remirepo.net/post/2015/11/09/PHPUnit-code-coverage-benchmark
+        title: Code Coverage w PHP7
+        description: Generowanie CC w nowym PHP *znacznie* przyspieszyło.
+    - 
+        link: http://arxiv.org/abs/1511.01232
+        title: Wirtualizacja i kontenery - pobór mocy
+        description: Porównanie zużycia energii elektrycznej przez Xena, KVM, Dockera i LXC.
+    - 
+        link: https://peerj.com/preprints/985.pdf
+        title: Feedback Driven Development
+        description: Nie miałbym *nic* przeciwko danym z profilera dostępnym w PHPStorm :)
+    - 
+        link: https://puppetlabs.com/sites/default/files/2015-state-of-devops-report.pdf
+        title: Devopsowanie w 2015 roku - raport
+        description: Puppet Labs o tym jak devopsujemy, co nam daje lepsze devopsowanie i jakie realne zalety ma sensowne devopsowanie.
+    - 
+        link: http://evertpot.com/switching-to-linux/
+        title: Czy to już czas porzucić Mac OS X
+        description: Jeśli i Ty dałeś się złapać na maltreting Stefana, to czas przemyśleć swoją decyzję ;)
+    - 
+        link: http://gigi.nullneuron.net/gigilabs/lessons-learned-from-the-patreon-security-breach/
+        title: Jak nie powinien wyglądać testing?
+        description: Słów kilka na temat tego skąd powinny pochodzić, przynajmniej niektóre, dane na środowisku testowym. I dlaczego używanie tam danych produkcyjnych może prowadzić do katastrofy...
+    - 
+        link: http://www.computerworlduk.com/cloud-computing/guardian-goes-all-in-on-aws-public-cloud-after-openstack-disaster-3629790/
+        title: The Guardian migruje na AWS
+        description: Wygląda to na dość poważną porażkę OpenStack i spory propagandowy sukces AWS. Niestety brakuje konkretnych (technicznych) informacji o przyczynam przeprowadzki.
+    - 
+        link: http://research.microsoft.com/apps/video/default.aspx?id=153540&r=1
+        title: Jak odesłać CAP na zasłużoną emeryturę?
+        description: Strong Eventual Consistency pozwala zachować C(onsitency) nie rezygnując z A(valibility) ani P(artition tolerance). Marc Shapiro tłumaczy czym kaczka wodę pije.
+    - 
+        link: https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis
+        title: Jak wykrywać ustawione mecze tenisowe
+        description: BBC i BuzzFeed przeprowadziły dziennikarskie śledztwo na temat ustawionych meczów w tenisie (takim na poziomie Wimbledonu - http://www.buzzfeed.com/heidiblake/the-tennis-racket). Na koniec podzielili się szczegółami technicznymi dochodzenia.
+    -
+        link: https://dl.acm.org/citation.cfm?doid=2815400.2815426
+        title: Spójność na skalę Fejsbuka
+        description: Co sądzić o silnej spójności jeśli tylko 0,0004% odczytów zwróciłoby inne wyniki?
+    - 
+        link: http://blog.robertelder.org/interfaces-most-important-software-engineering-concept
+        title: O istnotności interfejsów
+        description: Spory tekst na temat interfejsów, tego do czego służą i jak ich używać.
+    - 
+        link: https://queue.acm.org/detail.cfm?id=2898444
+        description: Zasłużeni na polu chwały pracownicy firmy Alphabet tłumaczą jak ewoluowała konteneryzacja i o co w niej chodzi.
+        title: Fachowcy tłumaczą OCB w konteneryzacji
+
