@@ -307,4 +307,16 @@ items:
         link: https://queue.acm.org/detail.cfm?id=2898444
         description: Zasłużeni na polu chwały pracownicy firmy Alphabet tłumaczą jak ewoluowała konteneryzacja i o co w niej chodzi.
         title: Fachowcy tłumaczą OCB w konteneryzacji
+    - 
+        link: https://zachholman.com/posts/deploying-software
+        description: Bardzo dobry tekst o procesie wdrażania zmian w aplikacji autorstwa ex-Githubera. Tak, o code review też jest :P
+        title: Jak wdrażać i zachować zdrowie psychiczne.
+    - 
+        link: https://medium.com/medium-eng/the-code-review-mindset-3280a4af0a89
+        title: Code review w punktach - dos and donts
+        description: Dwie unordered lists, które opisują jak powinno podchodzić się do procesu code review. Pamiętaj, nikt nie chce Cię skrzywdzić.
+    -
+        link: http://blog.krakjoe.ninja/2016/03/hacking-php-7.html
+        title: Jak działa jamniczek
+        description: Krakjoe tłumaczy w jaki sposób PHP7 przerabia kod pehapowy na zendowy opcode
 
