@@ -320,3 +320,20 @@ items:
         title: Jak działa jamniczek
         description: Krakjoe tłumaczy w jaki sposób PHP7 przerabia kod pehapowy na zendowy opcode
 
+    - 
+        link: http://paul-m-jones.com/archives/6288
+        title: "Czym nie jest MVC?"
+        description: Mr. Jones cytując Mr. Fowlera tłumaczy dlaczego MVC nie jest architekturą aplikacji i co tak naprawdę jest interfejsem użytkownika aplikacji webowej.
+    - 
+        title: "Dawid, mam odpowiedź na Twoje dzisiejsze rozkminy!"
+        description: Powinieneś był zainstalować MySQL 5.7 i Twoje życie mogłoby stać się prostsze i lepsze.
+        link: http://mysqlserverteam.com/upgrading-json-data-stored-in-text-columns/
+    - 
+        title: "A 8.0 będzie statycznie typowane..."
+        description: "RFC w sprawie typowanych właściwości klas"
+        link: https://wiki.php.net/rfc/typed-properties
+    - 
+        title: Jak zwalniać i być zwalniamym
+        link: https://zachholman.com/talk/firing-people
+        description: "Długi tekst o tym co można zjebać gdy się zwalnia pracowanika i co zwalniany pracownik może zjebać, żeby samemu utrudnić sobie życie."
+
